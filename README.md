@@ -1,5 +1,6 @@
 # UCSAS2024Poster
 2024 University of Connecticut Sports Analytics Symposium (UCSAS) Poster Session
+
 ## Poster
 ![poster](https://github.com/choimins21ng/UCSAS2024Poster/assets/148539587/0a8e30a6-a0ae-4216-9fe7-8608a895e2ba)
 
