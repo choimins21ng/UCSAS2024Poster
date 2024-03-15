@@ -1,7 +1,8 @@
 # UCSAS2024Poster
 2024 University of Connecticut Sports Analytics Symposium (UCSAS) Poster Session
 ## Poster
-![poster](https://github.com/choimins21ng/UCSAS2024Poster/assets/148539587/0a8e30a6-a0ae-4216-9fe7-8608a895e2ba)
+![poster](https://github.com/choimins21ng/UCSAS2024Poster/assets/148539587/82f95c05-c7fa-4b4c-b692-6363d31609e8)
+
 
 ### Examples of directionality plots
   
